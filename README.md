@@ -22,3 +22,8 @@
 | ``Keyboard`` |  | Working. 键盘灯也没问题，神州貌似是存在bios里了，要到win下调整效果 |
 | ``fans`` |  | Working. 可以快捷键调成自定和max 试过以现有的clevo风扇控制驱动，但是没效果 |
 | ``Touchpad`` |  | Working. ps2模式工作 只能单指，貌似是tigerlake的i2c控制器还没驱动 voodooi2c团队在做|****
+
+需要修改bios 
+cfg lock
+DVMT 64mb以上
+ 解锁bios参考https://bbs.pcbeta.com/viewthread-1867971-1-1.html
