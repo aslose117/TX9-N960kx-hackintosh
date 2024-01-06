@@ -4,7 +4,7 @@
 | | Spec | macOS 12.6 |
 | ---: | :--- | :--- |
 | ``Chipset`` | Mobile Intel HM570 | No issues |
-| ``CPU`` | Intel Core i5-10600 processor, 8 Cores / 只能10th，11th和显无法驱动 | No issues |
+| ``CPU`` | Intel Core i5-10600 processor, 6 Cores / 只能10th，11th和显无法驱动 | No issues |
 | ``Memory`` | 32GB dual-channel  | No issues |
 | ``GPU`` | Intel UHD Graphics 630 | No issues |
 | ``dGPU`` | Nvidia 3070 | Disabled for macOS. |
