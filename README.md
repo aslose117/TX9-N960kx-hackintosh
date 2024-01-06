@@ -1,4 +1,3 @@
-# TX9-N960kx-hackintosh--
 # TX9-N960kx-hackintosh-黑苹果
 目前系统版本12.6 理论上Ventura也可以
 
